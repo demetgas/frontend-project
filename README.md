@@ -1,4 +1,4 @@
 # frontend-project
-A fully responsive frontend project for beginners using HTML, CSS, Javascript :),
+A fully responsive frontend project
 
 Credit to Brian Design 
